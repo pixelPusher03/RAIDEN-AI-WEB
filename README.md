@@ -1,4 +1,4 @@
-# 🚀 RAIDEN AI ⛈️REPOSITORY 
+# 🚀 RAIDEN AI ⛈️
 
 This is the official repository for Raiden AI, powering the AI experience on our website 🌐.
 
