@@ -1,0 +1,16 @@
+{
+    "description": "Chatui",
+    "main": "./raiden.js",
+  "engines" : { 
+    "npm" : ">=9.7.2",
+    "node" : ">=20.0.0"
+    },
+    "scripts": {
+    "start": "node raiden.js"
+  },
+  "author": "The Developer",
+  "license": "MIT license",
+  "dependencies": {
+    "express": "^4.18.1",
+   }
+}
